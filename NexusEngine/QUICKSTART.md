@@ -15,7 +15,7 @@ python3 --version       # >= 3.11
 
 ```bash
 # Clone
-git clone https://github.com/nexusengine/nexus-omega.git
+git clone Link do Projeto só copiar e colar para não ter risco!
 cd NexusEngine
 
 # Copy environment template
@@ -336,3 +336,4 @@ python python/cli/main.py start
 # Web dashboard
 http://localhost:3000
 ```
+
