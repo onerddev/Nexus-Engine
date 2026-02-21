@@ -317,7 +317,6 @@ Full Stack Latency:   <100µs p99
 
 - **Issues** - GitHub Issues
 - **Discussions** - GitHub Discussions
-- **Email** - team@nexusengine.dev
 - **Docs** - [docs/](docs/)
 
 ---
@@ -336,4 +335,5 @@ python python/cli/main.py start
 # Web dashboard
 http://localhost:3000
 ```
+
 
