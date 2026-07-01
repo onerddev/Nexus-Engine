@@ -2,7 +2,7 @@
 
 **Motor Computacional de Alta Performance**
 
-> **Autor:** Emanuel Felipe — [@onerddev](https://github.com/onerddev)  
+> **Autor:** Emanuel Felipe — 
 > **Versão:** 3.0.0 · **Licença:** MIT · **Python 3.10+**
 
 ---
